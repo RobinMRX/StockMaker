@@ -6,7 +6,7 @@ Stock Maker is not just that. It is also a way to create products from stock com
 
 ## Component
 
-![My Image](images/my-image.jpg)
+![Image component](images/img_component.png)
 
 The first feature of Stock Maker is to allow you simplicity in managing your component stock.
 
