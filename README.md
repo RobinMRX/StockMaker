@@ -1,26 +1,32 @@
 # Introduction
 
-Stock Maker is a free inventory management software. All data is saved locally on your machine
+**```Stock Maker```** is a free inventory management software. All data is saved ```locally``` on your machine
 
-Stock Maker is not just that. It is also a way to create products from stock components. Stock Maker allows you to see in a simple and efficient way if you have the necessary components in stock as well as to calculate the cost of the products you want to manufacture
+Stock Maker is not just that. It is also a way to **```create products```** from stock components. Stock Maker allows you to see in a simple and efficient way if you have the **```necessary components in stock```** as well as to **```calculate```** the cost of the products you want to manufacture
 
 ## Component
 
-![Image component](images/img_component.png)
+![Image composant](Images/composant.png)
 
-The first feature of Stock Maker is to allow you simplicity in managing your component stock.
+The first feature of Stock Maker is to allow you simplicity in **```managing your component stock```**.
 
-You will find in the lower part a list of all your components.
+You will find in the lower part a **```list```** of all your components.
 
-On the higher part, you can either add or modify it.
+On the higher part, you can either **```add```** or **```modify```** it.
 
-Each component has a description, a comment, a quantity, a unit price, a datasheet and a shopping site
+Each component has **```description```** **```comment```** **```quantity```** **```unit price```** **```datasheet```** **```shopping site```**
 
 ## Product
 
-Arrive soon
+![Image produit](Images/produit.png)
 
-The product menu allows you to create new product from your components.
+The product menu allows you to **```create```** new product from your components.
+
+At the right, you can either **```add```** or **```modify```** it.
+
+Each product has **```description```** **```list of components```**
+
+You are able to see **```at a glance```** the **```cost```** of each product
 
 ## Production
 
