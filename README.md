@@ -2,7 +2,7 @@
 
 **```Stock Maker```** is a free inventory management software. All data is saved ```locally``` on your machine
 
-Stock Maker is not just that. It is also a way to **```create products```** from stock components. Stock Maker allows you to see in a simple and efficient way if you have the **```necessary components in stock```** as well as to **```calculate```** the cost of the products you want to manufacture
+Stock Maker is not just that. It is also a way to **```create products```** from stock components. Stock Maker allows you to see in a simple and efficient way if you have the **```necessary components in stock```** as well as to **```calculate the cost```** of the products you want to manufacture
 
 ## Component
 
