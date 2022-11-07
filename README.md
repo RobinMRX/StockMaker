@@ -30,6 +30,6 @@ You are able to see **```at a glance```** the **```cost```** of each product
 
 ## Production
 
-Arrive soon
+![Image produit](Images/production.png)
 
-The production menu allows you to select the products you wish to produce. Stock Maker will automatically give you the components needed for this production. It will also give you if you are missing components as well as the total costs of production and the lack of component
+The production menu allows you to select the products you wish to produce. Stock Maker will **```automatically```** give you the **```components needed```** for this production. It will also give you if you are ```**missing components**``` as well as the **```total costs of production```** and the **```lack of component```**
